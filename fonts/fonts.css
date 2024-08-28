@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'ITC New Baskerville';
+    src: url('NewBaskerville-Roman.eot');
+    src: url('NewBaskerville-Roman.eot?#iefix') format('embedded-opentype'),
+        url('NewBaskerville-Roman.woff2') format('woff2'),
+        url('NewBaskerville-Roman.woff') format('woff'),
+        url('NewBaskerville-Roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Baloo Tammudu 2';
+    src: url('BalooTammudu2-Bold.eot');
+    src: url('BalooTammudu2-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BalooTammudu2-Bold.woff2') format('woff2'),
+        url('BalooTammudu2-Bold.woff') format('woff'),
+        url('BalooTammudu2-Bold.ttf') format('truetype'),
+        url('BalooTammudu2-Bold.svg#BalooTammudu2-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Baloo Tammudu 2';
+    src: url('BalooTammudu2-Regular.eot');
+    src: url('BalooTammudu2-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BalooTammudu2-Regular.woff2') format('woff2'),
+        url('BalooTammudu2-Regular.woff') format('woff'),
+        url('BalooTammudu2-Regular.ttf') format('truetype'),
+        url('BalooTammudu2-Regular.svg#BalooTammudu2-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Baloo Tammudu 2';
+    src: url('BalooTammudu2-SemiBold.eot');
+    src: url('BalooTammudu2-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('BalooTammudu2-SemiBold.woff2') format('woff2'),
+        url('BalooTammudu2-SemiBold.woff') format('woff'),
+        url('BalooTammudu2-SemiBold.ttf') format('truetype'),
+        url('BalooTammudu2-SemiBold.svg#BalooTammudu2-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Baloo Tammudu 2';
+    src: url('BalooTammudu2-Medium.eot');
+    src: url('BalooTammudu2-Medium.eot?#iefix') format('embedded-opentype'),
+        url('BalooTammudu2-Medium.woff2') format('woff2'),
+        url('BalooTammudu2-Medium.woff') format('woff'),
+        url('BalooTammudu2-Medium.ttf') format('truetype'),
+        url('BalooTammudu2-Medium.svg#BalooTammudu2-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Baloo Tammudu 2';
+    src: url('BalooTammudu2-ExtraBold.eot');
+    src: url('BalooTammudu2-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('BalooTammudu2-ExtraBold.woff2') format('woff2'),
+        url('BalooTammudu2-ExtraBold.woff') format('woff'),
+        url('BalooTammudu2-ExtraBold.ttf') format('truetype'),
+        url('BalooTammudu2-ExtraBold.svg#BalooTammudu2-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Baskerville Classico SC';
+    src: url('BaskervilleClassicoSC.eot');
+    src: url('BaskervilleClassicoSC.eot?#iefix') format('embedded-opentype'),
+        url('BaskervilleClassicoSC.woff2') format('woff2'),
+        url('BaskervilleClassicoSC.woff') format('woff'),
+        url('BaskervilleClassicoSC.ttf') format('truetype'),
+        url('BaskervilleClassicoSC.svg#BaskervilleClassicoSC') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
